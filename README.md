@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KINGLRL
-- 👀 I’m interested in Machine Learning, Evo
+- 👀 I’m currently interested in Machine Learning, Evolutional Computing.
 - 🌱 I’m currently studying at Sichuan University.
 - 💞️ I’m looking to collaborate on, emmm, nothing yet.
 - 📫 How to reach me: 1598744255@qq.com
