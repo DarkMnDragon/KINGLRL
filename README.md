@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KINGLRL
-- 👀 I’m currently interested in Machine Learning, Evolutional Computing.
-- 🌱 I’m currently studying at Sichuan University.
-- 💞️ I’m looking to collaborate on, emmm, nothing yet.
+- 👋 Hi, I’m Runlong Liao.
+- 🎓 I’m currently studying at Sichuan University, majoring in Computer Science.
+- 👀 I’m currently interested in diffusion models, especially probility flow models and their applications.
 - 📫 How to reach me: 1598744255@qq.com
 
 <!---
