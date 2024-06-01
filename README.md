@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Runlong Liao.
 - 🎓 I’m currently studying at Sichuan University, majoring in Computer Science.
-- 👀 I’m currently interested in diffusion models, especially probility flow models and their applications.
+- 👀 I’m currently interested in diffusion models, especially probability flow models and their applications.
 - 📫 How to reach me: 1598744255@qq.com
 
 <!---
